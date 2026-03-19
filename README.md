@@ -26,6 +26,20 @@
 - `skill-explanation/SKILL.md`
 - `skill-explanation/config.json`
 
+### notes-remaker
+
+路径：`notes-remaker/`
+
+作用：
+
+- 将文本内容或 Markdown 文件整理为结构化笔记
+- 运用 MECE 原则和金字塔原理进行深度拆解
+- 自动生成包含摘要、逻辑重构、行动指南和标签的规范输出内容
+
+主要文件：
+
+- `notes-remaker/SKILL.md`
+
 ## 后续扩展建议
 
 - 新增技能时，继续采用“一技能一目录”的结构

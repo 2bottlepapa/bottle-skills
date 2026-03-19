@@ -1,6 +1,10 @@
 ---
 name: skill-explanation
 description: 根据技能文档生成一份说明文档。仅在用户明确要求“根据文档解释这个技能并输出文档”或“根据 SKILL.md 生成说明文档”时触发。支持从本地文件路径、当前打开的技能文档、以及公开 GitHub 仓库中的技能文档链接读取内容。首次使用时必须询问用户说明文档的输出目录，并将该目录保存为默认配置；后续未指定路径时复用默认配置。若用户只是口头询问技能功能或触发方式、未要求输出文档，则不要触发本技能。
+tags: skill/documentation
+level: 🟢入门
+category: 效率套件 / 文档生成
+last_practiced: 2026-03-19
 ---
 
 # Skill Explanation
